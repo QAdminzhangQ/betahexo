@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>19-19组官网</title>
-        <subtitle>19-19</subtitle>
+        <title>Adminzhangの个人博客</title>
+        <subtitle>Adminzhang</subtitle>
         <icon>https://a10-10.a9-9.top/images/favicon.ico</icon>
         <link>https://a10-10.a9-9.top</link>
         <author>
           <name>AdminZhang</name>
         </author>
-        <description>存放19-19组文件的网站</description>
+        <description>杂七杂八的文章网站</description>
         <language>zh-CN</language>
         <pubDate>Fri, 22 Apr 2022 14:10:47 +0800</pubDate>
         <lastBuildDate>Fri, 22 Apr 2022 14:10:47 +0800</lastBuildDate>
