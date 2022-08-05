@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://a9-9.top/friends/index.html</loc>
+    
+    <lastmod>2022-08-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://a9-9.top/year/05/27/%E6%9C%AC%E7%AB%99%E5%86%85%E5%AE%B9%E6%96%B9%E5%90%91/</loc>
     
     <lastmod>2022-05-27</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://a9-9.top/year/05/26/%E7%BD%AA%E4%B8%8E%E7%BD%9A/</loc>
     
     <lastmod>2022-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://a9-9.top/friends/index.html</loc>
-    
-    <lastmod>2022-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://a9-9.top/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
